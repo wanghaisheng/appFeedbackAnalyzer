@@ -4,9 +4,11 @@
 
 
 
+
+
 A quick attempt at uncovering the biggest pain points and opportunities for popular apps using publicly available qualitative feedback. I used AppStore Reviews and Subreddit posts, but this could be easily extended to collect data from several more sources such G2, Trustpilot, Twitter/X, etc.
 
-
+https://github.com/wanghaisheng/a-monitor-topic-scheduled-jobs
 
 
 
