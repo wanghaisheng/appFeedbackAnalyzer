@@ -1,4 +1,14 @@
+
+# how to improve your app  -see what customer say about app
+
+
+
+
 A quick attempt at uncovering the biggest pain points and opportunities for popular apps using publicly available qualitative feedback. I used AppStore Reviews and Subreddit posts, but this could be easily extended to collect data from several more sources such G2, Trustpilot, Twitter/X, etc.
+
+
+
+
 
 Here's an example output for CapCut - a popular video editing tool. This insight synthesis took less than 2 hours end to end. I included histograms to contextualize the extent of each pain point. 
 [https://slides.com/amityalwar/capcut](https://slides.com/amityalwar/capcut/fullscreen)
